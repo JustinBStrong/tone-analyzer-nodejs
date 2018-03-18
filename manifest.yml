@@ -10,4 +10,4 @@ applications:
   command: npm start
   path: .
   instances: 1
-  memory: 32MB
+  memory: 64MB
